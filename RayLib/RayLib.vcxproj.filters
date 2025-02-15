@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GRID">
+      <UniqueIdentifier>{f35ad8a3-dcae-4c88-8189-88f82e7a089a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CONTROLLES">
+      <UniqueIdentifier>{af900edf-3026-430e-a345-fa0970aee8aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BFS">
+      <UniqueIdentifier>{0ef34b43-77c6-4412-9e13-8d8a4dc414fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="A_STAR">
+      <UniqueIdentifier>{53853523-ad45-4c1d-9d57-9a4e02a106c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="grid.cpp">
+      <Filter>GRID</Filter>
+    </ClCompile>
+    <ClCompile Include="control.cpp">
+      <Filter>CONTROLLES</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS.cpp">
+      <Filter>BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="A_STAR.cpp">
+      <Filter>A_STAR</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="grid.hpp">
+      <Filter>GRID</Filter>
+    </ClInclude>
+    <ClInclude Include="cell.hpp">
+      <Filter>GRID</Filter>
+    </ClInclude>
+    <ClInclude Include="control.hpp">
+      <Filter>CONTROLLES</Filter>
+    </ClInclude>
+    <ClInclude Include="BFS.hpp">
+      <Filter>BFS</Filter>
+    </ClInclude>
+    <ClInclude Include="A_STAR.hpp">
+      <Filter>A_STAR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
