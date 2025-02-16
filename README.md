@@ -6,7 +6,8 @@ the code may look missy iam still learning how to use oop if you have any sugges
 controlles!!!!!
 
 E to change end
-S to change start 
+S to change start
+V to make it unvisited 
 Mouse left click for walls
 
 
