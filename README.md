@@ -3,4 +3,10 @@
 
 the code may look missy iam still learning how to use oop if you have any suggestions share it with me :)
 
+controlles!!!!!
+
+E to change end
+S to change start 
+Mouse left click for walls
+
 
