@@ -10,4 +10,8 @@ S to change start
 V to make it unvisited 
 Mouse left click for walls
 
+Space for start bfs
+
+A for start A*
+
 
